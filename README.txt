@@ -8,6 +8,7 @@ To download. click the DOWNLOADS button in the top right corner, rename the unco
 
 Place the LPD8806 library folder your <arduinosketchfolder>/libraries/ folder. You may need to create the libraries subfolder if its your first library. Restart the IDE.
 
+<<<<<<< HEAD
 Use LDP8806 for the newer optimized SPI library, and LPD8806old for the original Digital Pin code.
 
 Reworked sketches are in examples/
@@ -17,3 +18,10 @@ Note that I renamed the Adafruit libraries to "LDP8806old" - this includes the f
 This way I can use the original Adafruit libraries next to the new cjbaar fork.
 
 I expect that eventually cjbaar's fork will be merged back to the adafruit branch, so this repo will eventually be unnecessary.
+=======
+Reworked sketches are in examples/
+
+Note that I updated the Adafruit libraries to "LDP8806old" - this includes the files and links.
+
+This way I can use the original Adafruit libraries next to the new cjbaar fork.
+>>>>>>> c66ef28bf988a84ad855090dbaa39259f7ea6a8e
