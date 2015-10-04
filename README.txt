@@ -18,6 +18,10 @@ Note that I renamed the Adafruit libraries to "LDP8806old" - this includes the f
 This way I can use the original Adafruit libraries next to the new cjbaar fork.
 
 I expect that eventually cjbaar's fork will be merged back to the adafruit branch, so this repo will eventually be unnecessary.
+
+Note the new error requiring a change in LPD8806.h
+https://elektrozwerge.wordpress.com/2013/03/17/arduino-ide-1-0-error-wprogram-h-no-such-file-or-directory/
+
 =======
 Reworked sketches are in examples/
 
